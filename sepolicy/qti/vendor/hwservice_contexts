@@ -21,6 +21,9 @@ vendor.nxp.nxpese::INxpEse                        u:object_r:hal_nfc_hwservice:s
 vendor.nxp.nxpnfc::INxpNfc                        u:object_r:hal_nfc_hwservice:s0
 vendor.nxpnq330.nxpese::INxpEse                   u:object_r:hal_nfc_hwservice:s0
 
+# Osense
+vendor.oplus.hardware.osense.client::IOsenseHalReporter                 u:object_r:vendor_hal_osense_hwservice:s0
+
 # ORMS
 vendor.oplus.hardware.orms::IOrmsHalProxy    u:object_r:vendor_hal_orms_hwservice:s0
 
